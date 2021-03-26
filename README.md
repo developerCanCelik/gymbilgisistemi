@@ -1,1 +1,1 @@
-Spor Salonu Bilgi Sistemi(Üniversite Proje)
+Spor Salonu Bilgi Sistemi(Üniversite Proje(PHP))
